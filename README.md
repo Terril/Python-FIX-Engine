@@ -2,7 +2,9 @@
 
 **Use AUTO MODE**. Take a look at the text below in the auto mode section, which is the one working at the moment. I made changes and did not implement the manual version again. 
 
-Additionally, take a look at the [blog post](https://andresberejnoi.com/implementing-fix-engine-python/) I wrote about this project.
+Additionally, take a look at the [blog post]([https://andresberejnoi.com/implementing-fix-engine-python/](https://medium.com/@andresberejnoi/how-to-implement-a-fix-trading-engine-in-python-andres-berejnoi-4971270fa2f6)) I wrote about this project.
+
+[Fix Protocol Document] (https://www.onixs.biz/fix-dictionary/4.4/fields_by_tag.html)
 
 ## Setup
 I will include the steps for the particular setup I am using to run the FIX client. To begin with, I am running a conda version of Python 3.7. Simply go to the miniconda [website](https://docs.conda.io/en/latest/miniconda.html) and download the Python 3.7 installer for the appropriate OS (I am using Ubuntu 18.04 LTS).
